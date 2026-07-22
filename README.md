@@ -1,5 +1,7 @@
 # 🔬 Multi-Agent AI Research Assistant
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://research-agents-crewai-omkar-lokhande.streamlit.app/)
+
 An intelligent, automated research assistant built with **CrewAI**, **Streamlit**, and **Groq** (using the high-performance `llama-3.3-70b-versatile` model). This system deploys a collaborative crew of specialized AI agents to research, analyze, and write comprehensive reports on any topic.
 
 ---
